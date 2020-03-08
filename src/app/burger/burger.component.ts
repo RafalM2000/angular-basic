@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: '.app-burger',
+  selector: 'app-burger',
   templateUrl: './burger.component.html',
   styleUrls: ['./burger.component.css']
 })
